@@ -1,3 +1,5 @@
+
+console.log("result");
 function cookSteakImperative(steakWeight, desiredDoneness) {
     let grillTemperature = 0;
     let steakTemperature = 0;
@@ -28,5 +30,7 @@ function cookSteakImperative(steakWeight, desiredDoneness) {
   
   // Usage example:
   const result = cookSteakImperative(16, 63); // Cook a 16 oz steak to medium-rare (63°C)
-  console.log(result);
+  
+
+
   
